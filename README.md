@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-[![The-Coder-AJ's GitHub | Languages Over Time](https://stats.quine.sh/The-Coder-AJ/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=The-Coder-AJ)
 <!--
 **The-Coder-AJ/The-Coder-AJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
