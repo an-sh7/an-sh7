@@ -9,7 +9,7 @@ I'm Ansh – a passionate CyberSecurity & Development studentt, I'm focused on e
 
 ## 🌱 What I'm Learning
 - Advanced cybersecurity concepts and techniques.
-- Programming languages such as Python, Java, and JavaScript.
+- Programming languages such as Python, Java, and Bash.
 - Modern development workflows and DevSecOps practices.
 
 ## 👯‍♂️ Looking to Collaborate On
