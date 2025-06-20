@@ -1,27 +1,38 @@
-# Hi there, I'm an-sh7! 👋
-
-I'm Ansh – a passionate CyberSecurity & Development studentt, I'm focused on exploring the intersection of cybersecurity and software development, while continuously learning new technologies and best practices.
-
-## 🔭 What I'm Working On
-- **Cybersecurity Projects:** Learning about incident response, security analysis, and ethical hacking (Example. [Correlated Threat Analysis](https://github.com/an-sh7/Correlated-Threat-Analysis)).
-- **Development Projects:** Building projects like my early [Annoyance Handler](https://github.com/an-sh7/Annoyance_Handler) and other coding experiments to sharpen my skills.
-- **Continuous Learning:** Experimenting with new programming languages and tools to enhance secure coding practices.
-
-## 🌱 What I'm Learning
-- Advanced cybersecurity concepts and techniques.
-- Programming languages such as Python, Java, and Bash.
-- Modern development workflows and DevSecOps practices.
-
-## 👯‍♂️ Looking to Collaborate On
-- Open-source projects in cybersecurity and secure software development.
-- Collaborative learning initiatives and coding challenges.
-- Projects that merge development and security to solve real-world problems.
-
-## 📫 How to Reach Me
-- [**GitHub**](https://github.com/an-sh7)
-- [**YouTube**](https://www.youtube.com/@an-sh7)
-- [**Linkedin**](https://www.linkedin.com/in/an-sh7/)
+<h1 align="center">Hi 👋, I'm <b>Ansh (an‑sh7)</b></h1>
+<h3 align="center">Cybersecurity & Software Dev Student</h3>
 
 ---
 
-*Let's connect and build something secure and awesome together!*
+### 🌱 About Me
+- 💻 Focused on ethical hacking, incident response and secure coding.
+- 🔭 Currently building **SleepRecon** and other tools.
+- 💬 Ask me about CTFs, pentesting, Python, Java, Go, Bash.
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-557C94?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔗 [SleepRecon](https://github.com/an‑sh7/SleepRecon): Keeps nmap tasks running while you sleep.
+- ⚙️ [Annoyance Handler](https://github.com/an‑sh7/Annoyance_Handler): Content Blocker For Chrome.
+
+---
+
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/your‑profile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
